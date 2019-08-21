@@ -1,0 +1,14 @@
+.cards {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.icon-inline {
+  font-size: 50px;
+  text-align: center;
+}
+
+.fab {
+  color: #C2D6D0;
+}

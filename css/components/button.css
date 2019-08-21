@@ -1,0 +1,15 @@
+.btn-yours {
+  text-decoration: none;
+  background-color: white;
+  border-radius: 8px;
+  padding: 10px 40px;
+  border: solid 1px #2E4F45;
+  color: #2E4F45;
+  margin: auto;
+  font-size: 20px;
+  margin-top: 50px;
+}
+
+.btn-yours:hover {
+  border: solid 2px #C2D6D0;
+}
